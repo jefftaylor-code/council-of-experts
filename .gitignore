@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.venv/
+round1_latest.txt
+round2_latest.txt
+chair_latest.txt
